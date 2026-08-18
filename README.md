@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivamVashishthaa/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/ShivamVashishthaa/leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
