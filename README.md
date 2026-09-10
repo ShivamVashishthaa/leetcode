@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShivamVashishthaa/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivamVashishthaa/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0049-group-anagrams](https://github.com/ShivamVashishthaa/leetcode/tree/main/0049-group-anagrams/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShivamVashishthaa/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamVashishthaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShivamVashishthaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/ShivamVashishthaa/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/ShivamVashishthaa/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/ShivamVashishthaa/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/ShivamVashishthaa/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShivamVashishthaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/ShivamVashishthaa/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/ShivamVashishthaa/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -62,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/ShivamVashishthaa/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/ShivamVashishthaa/leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
